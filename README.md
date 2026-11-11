@@ -228,7 +228,7 @@ phpinfo();
 ```
 ### Refreshed my browser: PHP 8.5.4 info page displayed successfully
 
-![Browser](screenshots/Browser-1.png)
+![Browser](screenshots/browser-1.png)
 
 ### Remove the file i created as it contains sensitive information about my PHP environment and my Ubuntu server.
 
